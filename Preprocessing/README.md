@@ -8,7 +8,4 @@ The .tif files are stored in the same folder as the one that contains the .dat f
 When data spooling is selected on the software, there is no need to export acquisition one by one.
 
 This code can be used with .dat and .ini files from the folder /Example. Requires readAndorDatImage.m file.
-> v0: 2021-06-22, Allard A.
-
-## readAndorDatImage.m
-Reads .dat files genarated by Andor Solis software.
+> v0: 2021-06-25, Allard A.
