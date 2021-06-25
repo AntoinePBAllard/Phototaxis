@@ -1,5 +1,6 @@
 %% This has been downloaded from Matworks on the 2021-05-27
 %% I changed few things to make it work, e.g. the part with the C++ code was not working
+% v0: 2021-05-27, Allard A.
 
 function [andorImage, bFileDoesNotExist] = readAndorDatImage(rawDataFileName, param_file_name)
 %param_file_name = '/acquisitionmetadata.ini';
